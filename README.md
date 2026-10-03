@@ -91,9 +91,7 @@ alisha@github:~$ _
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlishaVashishth&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1220&title_color=14B8A6&text_color=E2E8F0&icon_color=F59E0B" />
 
-<img src="https://streak-stats.demolab.com?user=AlishaVashishth&hide_border=true&background=0b1220&stroke=38BDF8&ring=F472B6&fire=F59E0B&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=38BDF8&dates=94A3B8" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaVashishth&hide_border=true&layout=compact&bg_color=0b1220&title_color=38BDF8&text_color=E2E8F0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaVashishth&hide_border=true&layout=compact&hide=jupyter%20notebook,html&bg_color=0b1220&title_color=38BDF8&text_color=E2E8F0" />
 
 </div>
 
@@ -103,7 +101,7 @@ alisha@github:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishaVashishth&bg_color=0b1220&color=14B8A6&line=F472B6&point=F59E0B&area=true&area_color=14B8A6&hide_border=true" />
+<img src="https://ghchart.rshah.org/14B8A6/AlishaVashishth" alt="Contribution chart" width="95%" />
 
 </div>
 
@@ -113,11 +111,15 @@ alisha@github:~$ _
 
 ![](https://komarev.com/ghpvc/?username=AlishaVashishth&color=14B8A6&style=flat-square&label=PROFILE+VIEWS)
 
+</div>
+
 ```bash
 $ echo "thanks for stopping by — let's build something."
 thanks for stopping by — let's build something.
 $ _
 ```
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:38BDF8,100:F472B6&height=100&section=footer" alt="footer wave" />
 
