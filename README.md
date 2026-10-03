@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="terminal.svg" alt="Terminal view" width="860" />
+<img src="terminal.svg?v=2" alt="Terminal view" width="860" />
 
 <br/><br/>
 
