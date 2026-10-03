@@ -2,7 +2,7 @@
 
 <h1 align="center">Alisha Vashishth</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=14B8A6&center=true&vCenter=true&width=640&lines=%3E+RAG+chatbots+%C2%B7+recommenders+%C2%B7+computer+vision;%3E+Next.js+%2B+FastAPI+%2B+PostgreSQL%2C+end+to+end;%3E+Model%2C+API+and+UI%2C+built+together;%3E+Open+to+internships+%26+collaborations)](https://github.com/AlishaVashishth)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=640&lines=%3E+RAG+chatbots+%C2%B7+recommenders+%C2%B7+computer+vision;%3E+Next.js+%2B+FastAPI+%2B+PostgreSQL%2C+end+to+end;%3E+Model%2C+API+and+UI%2C+built+together;%3E+Open+to+internships+%26+collaborations)](https://github.com/AlishaVashishth)
 
 <br/>
 
@@ -82,28 +82,7 @@ alisha@github:~$ _
 ![AI-900](https://img.shields.io/badge/Azure-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DP-900](https://img.shields.io/badge/Azure-DP--900-0EA5E9?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AZ-900](https://img.shields.io/badge/Azure-AZ--900-14B8A6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## 📊 github_stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlishaVashishth&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1220&title_color=14B8A6&text_color=E2E8F0&icon_color=F59E0B" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaVashishth&hide_border=true&layout=compact&hide=jupyter%20notebook,html&bg_color=0b1220&title_color=38BDF8&text_color=E2E8F0" />
-
-</div>
-
----
-
-## 📈 activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/14B8A6/AlishaVashishth" alt="Contribution chart" width="95%" />
-
-</div>
+![PL-300](https://img.shields.io/badge/Power_BI-PL--300-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
