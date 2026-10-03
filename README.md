@@ -6,13 +6,12 @@
 
 <br/>
 
-<img src="terminal.svg?v=2" alt="Terminal view" width="860" />
+<img src="terminal.svg?v=3" alt="Terminal view" width="860" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alishavashishth)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AlishaVashishth/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlishaVashishth)
 
 </div>
 
