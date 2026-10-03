@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:38BDF8,100:F472B6&height=170&section=header&text=Alisha%20Vashishth&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=I%20build%20AI%20products%20that%20actually%20ship&descSize=17&descAlignY=60" alt="Alisha Vashishth banner" />
+<h1 align="center">Alisha Vashishth</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=14B8A6&center=true&vCenter=true&width=640&lines=%3E+RAG+chatbots+%C2%B7+recommenders+%C2%B7+computer+vision;%3E+Next.js+%2B+FastAPI+%2B+PostgreSQL%2C+end+to+end;%3E+Model%2C+API+and+UI%2C+built+together;%3E+Open+to+internships+%26+collaborations)](https://github.com/AlishaVashishth)
 
@@ -119,8 +119,4 @@ thanks for stopping by — let's build something.
 $ _
 ```
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:38BDF8,100:F472B6&height=100&section=footer" alt="footer wave" />
-
-</div>
+<div align="center"><sub>Alisha Vashishth · Chandigarh, India</sub></div>
